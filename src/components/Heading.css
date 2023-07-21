@@ -1,0 +1,17 @@
+.heading-container {
+  width: 100vw;
+  color: white;
+  height: 100vh;
+  position: relative;
+  top: -280px;
+  display: flex;
+  justify-content: center;
+}
+
+.heading-content {
+  position: absolute;
+  width: 40rem;
+  top: 280px;
+  text-align: center;
+  background-clip: text;
+}
